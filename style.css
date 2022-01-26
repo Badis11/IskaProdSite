@@ -85,3 +85,11 @@ a {
     font-size: 17px;
 	text-decoration:none;
 }
+b{
+	margin: 0;
+	color: #2F3336;
+	color: #efefef;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 40px;
+	text-decoration:none;
+}
